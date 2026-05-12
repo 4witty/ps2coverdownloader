@@ -8,8 +8,7 @@ install requests
 
 ```
 pip install requests
-
 ```
 
 write game code(SLUS-0000 etc) to list.txt and run script
-when script finish see covers folder
+when script finish see covers folderr
